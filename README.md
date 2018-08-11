@@ -55,3 +55,7 @@ Things you may want to cover:
 （こちらも、技術的、期間的または、金銭的に実装可能かわからないが、調べてみる）
 
 以上の流れのサービスを作りたい。
+
+*DB設計
+
+[AutoGift.pdf](https://github.com/NaoyaW/AutoGift/files/2280094/AutoGift.pdf)
