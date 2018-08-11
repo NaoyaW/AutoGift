@@ -58,4 +58,3 @@ Things you may want to cover:
 
 *DB設計
 
-[AutoGift.pdf](https://github.com/NaoyaW/AutoGift/files/2280094/AutoGift.pdf)
